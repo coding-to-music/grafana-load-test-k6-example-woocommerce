@@ -1,3 +1,31 @@
+# grafana-load-test-k6-example-woocommerce
+
+# 🚀 Example k6 scripts targeting a WooCommerce deployment 🚀
+
+https://github.com/coding-to-music/grafana-load-test-k6-example-woocommerce
+
+From / By https://github.com/grafana/k6-example-woocommerce
+
+https://github.com/grafana/k6-example-woocommerce
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/grafana-load-test-k6-example-woocommerce.git
+git push -u origin main
+```
+
 # k6 eCommerce Demo Scripts
 
 ## Introduction

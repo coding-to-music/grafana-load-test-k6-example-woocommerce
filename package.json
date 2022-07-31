@@ -1,0 +1,21 @@
+{
+  "name": "grafana-load-test-k6-example-woocommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grafana/k6-example-woocommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grafana/k6-example-woocommerce/issues"
+  },
+  "homepage": "https://github.com/grafana/k6-example-woocommerce#readme"
+}
